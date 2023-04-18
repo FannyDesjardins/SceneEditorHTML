@@ -1,15 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F4F5FF;
+  }
+
 h1 {
-    font-family: Helvetica;
-    font-size: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
     font-weight: bold;
     text-align: center;
+    color: #66A5D9;
 }
 
-h2 {
-    font-family: Helvetica;
+.text {
+    color: black;
+    font-family: Arial, sans-serif;
     font-size: 16px;
-    font-weight: bold;
     text-align: center;
+    text-decoration: none;
 }
 
 .centered {
